@@ -12,5 +12,6 @@ Add key and source package list
 
 Installation
 
-sudo apt update
-sudo apt install cpp-intro
+    sudo apt update
+    
+    sudo apt install cpp-intro
